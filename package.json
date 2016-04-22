@@ -4,6 +4,13 @@
   "version":"0.1.1",
   "description":"Censor words out of text",
   "main":"censortext",
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/ruchaos/censorify"
+  },
+  "keywords":[
+    "cencor","words"
+  ],
   "dependencies":{},
   "engines":{
     "node":"*"
